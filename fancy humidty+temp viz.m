@@ -15,7 +15,7 @@ HumidityFieldID = 5;
 % Channel Read API Key   
 % If your channel is private, then enter the read API 
 % Key between the '' below:   
-readAPIKey = 'JRCYSXIL47ECGL79'; 
+readAPIKey = 'XXXXXXXX'; 
 
 % Read Temperature and Humidity Data. Learn more about the THINGSPEAKREAD function by 
 % going to the Documentation tab on the right side pane of this page. 
